@@ -75,5 +75,3 @@ DerivedDataCache/*
 
 # Ignore the biggest files
 Content/Bordel/*
-
-Plugins/*
