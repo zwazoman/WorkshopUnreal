@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "WorshopVR2025",
+			"Path": "..\\Source\\WorshopVR2025.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "WorshopVR2025Editor",
+			"Path": "..\\Source\\WorshopVR2025Editor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
