@@ -67,7 +67,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{B10EFC17-21AD-32A0-9806-26340289A768}</ProjectGuid>
+    <ProjectGuid>{34CD173A-5D11-3367-8932-63C25B355041}</ProjectGuid>
     <RootNamespace>WorshopVR2025</RootNamespace>
   </PropertyGroup>
   <Import Project="UECommon.props" />
