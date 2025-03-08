@@ -1,8 +1,8 @@
 {
 	"SourceFiles": [
-		"C:\\Users\\Nathan\\Documents\\Unreal Projects\\WorkshopUnreal\\WorshopVR2025\\Source\\WorshopVR2025\\WorshopVR2025.Build.cs",
-		"C:\\Users\\Nathan\\Documents\\Unreal Projects\\WorkshopUnreal\\WorshopVR2025\\Source\\WorshopVR2025.Target.cs",
-		"C:\\Users\\Nathan\\Documents\\Unreal Projects\\WorkshopUnreal\\WorshopVR2025\\Source\\WorshopVR2025Editor.Target.cs"
+		"E:\\Unreal Projects\\WorkshopUnreal\\WorshopVR2025\\Source\\WorshopVR2025\\WorshopVR2025.Build.cs",
+		"E:\\Unreal Projects\\WorkshopUnreal\\WorshopVR2025\\Source\\WorshopVR2025.Target.cs",
+		"E:\\Unreal Projects\\WorkshopUnreal\\WorshopVR2025\\Source\\WorshopVR2025Editor.Target.cs"
 	],
 	"EngineVersion": "5.4.4"
 }
