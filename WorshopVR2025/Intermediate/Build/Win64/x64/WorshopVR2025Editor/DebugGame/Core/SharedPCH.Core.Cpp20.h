@@ -1,0 +1,3 @@
+// PCH for Runtime/Core/Public/CoreSharedPCH.h
+#include "E:/Unreal Projects/WorkshopUnreal/WorshopVR2025/Intermediate/Build/Win64/x64/WorshopVR2025Editor/DebugGame/Core/SharedDefinitions.Core.Cpp20.h"
+#include "Runtime/Core/Public/CoreSharedPCH.h"
