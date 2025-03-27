@@ -1,8 +1,8 @@
 {
 	"SourceFiles": [
-		"C:\\1 - Logiciel\\Fork\\WorkshopUnreal\\WorshopVR2025\\Source\\WorshopVR2025\\WorshopVR2025.Build.cs",
-		"C:\\1 - Logiciel\\Fork\\WorkshopUnreal\\WorshopVR2025\\Source\\WorshopVR2025.Target.cs",
-		"C:\\1 - Logiciel\\Fork\\WorkshopUnreal\\WorshopVR2025\\Source\\WorshopVR2025Editor.Target.cs"
+		"C:\\Mes creation de jeux\\Workshop 2025 VR\\Unreal_projet_reclone\\WorkshopUnreal\\WorshopVR2025\\Source\\WorshopVR2025\\WorshopVR2025.Build.cs",
+		"C:\\Mes creation de jeux\\Workshop 2025 VR\\Unreal_projet_reclone\\WorkshopUnreal\\WorshopVR2025\\Source\\WorshopVR2025.Target.cs",
+		"C:\\Mes creation de jeux\\Workshop 2025 VR\\Unreal_projet_reclone\\WorkshopUnreal\\WorshopVR2025\\Source\\WorshopVR2025Editor.Target.cs"
 	],
 	"EngineVersion": "5.4.4"
 }
